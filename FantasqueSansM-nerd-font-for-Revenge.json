@@ -3,5 +3,6 @@
     "name": "FantasqueSansM Nerd Font",
     "previewText": "Hello world!",
     "main": {
+        "FantasqueSansMNerdFont-Bold": "https://github.com/MrBurgerCZ/FantasqueSansM-font-for-Revenge/raw/refs/heads/main/FantasqueSansMNerdFont-Bold.ttf"
     }
 }
