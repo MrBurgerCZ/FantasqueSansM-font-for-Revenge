@@ -3,6 +3,17 @@
     "name": "FantasqueSansM Nerd Font",
     "previewText": "Hello world!",
     "main": {
-        "FantasqueSansMNerdFont-Bold": "https://raw.githubusercontent.com/MrBurgerCZ/FantasqueSansM-font-for-Revenge/refs/heads/main/FantasqueSansMNerdFont-Bold.ttf"
+        "FantasqueSansMNerdFontPropo-Regular": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Regular/FantasqueSansMNerdFontPropo-Regular.ttf?raw=1",
+        "FantasqueSansMNerdFontMono": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Regular/FantasqueSansMNerdFontMono-Regular.ttf?raw=1",
+        "FantasqueSansMNerdFont-Regular": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Regular/FantasqueSansMNerdFont-Regular.ttf?raw=1",
+        "FantasqueSansMNerdFontPropo-Bold": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Bold/FantasqueSansMNerdFontPropo-Bold.ttf?raw=1",
+        "FantasqueSansMNerdFontMono-Bold": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Bold/FantasqueSansMNerdFontMono-Bold.ttf?raw=1",
+        "FantasqueSansMNerdFont-Bold": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Bold/FantasqueSansMNerdFont-Bold.ttf?raw=1",
+        "FantasqueSansMNerdFontPropo-Italic": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Italic/FantasqueSansMNerdFontPropo-Italic.ttf?raw=1",
+        "FantasqueSansMNerdFontMono-Italic": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Italic/FantasqueSansMNerdFontMono-Italic.ttf?raw=1",
+        "FantasqueSansMNerdFont-Italic": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Italic/FantasqueSansMNerdFont-Italic.ttf?raw=1",
+        "FantasqueSansMNerdFontPropo-BoldItalic": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Bold-Italic/FantasqueSansMNerdFontPropo-BoldItalic.ttf?raw=1",
+        "FantasqueSansMNerdFontMono-BoldItalic": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Bold-Italic/FantasqueSansMNerdFontMono-BoldItalic.ttf?raw=1",
+        "FantasqueSansMNerdFont-BoldItalic": "https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/FantasqueSansMono/Bold-Italic/FantasqueSansMNerdFont-BoldItalic.ttf?raw=1"
     }
 }
